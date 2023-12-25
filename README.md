@@ -31,4 +31,6 @@ Visit http://localhost:3000/?username=YOUR_GITHUB_USERNAME in your browser, and 
 
 ## Screenshot
 <img width="418" alt="image" src="https://github.com/ritesh1191/Node.js-Development-internship-Task/assets/101041207/84bf3cf9-8917-4dd4-952c-6b5500885005">
+<img width="393" alt="image" src="https://github.com/ritesh1191/Node.js-Development-internship-Task/assets/101041207/2b85f237-b0aa-4b1e-81d9-5a94e2f4265d">
+
 
