@@ -1,0 +1,23 @@
+<!-- views/index.ejs -->
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>GitHub Contribution Graph</title>
+  </head>
+  <body>
+    <h1>GitHub Contribution Graph</h1>
+
+    <% if (error) { %>
+    <p style="color: red"><%= error %></p>
+    <% } else { %>
+    <h2><%= username %>'s Contribution Graph</h2>
+    <img
+      src="https://ghchart.rshah.org/<%= username %>"
+      alt="<%= username %>'s Contribution Graph"
+    />
+    <% } %>
+  </body>
+</html>
