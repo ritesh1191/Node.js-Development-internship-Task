@@ -28,3 +28,7 @@ Start Application
 ```
 
 Visit http://localhost:3000/?username=YOUR_GITHUB_USERNAME in your browser, and you should see the GitHub contribution graph for the specified user.
+
+## Screenshot
+<img width="418" alt="image" src="https://github.com/ritesh1191/Node.js-Development-internship-Task/assets/101041207/84bf3cf9-8917-4dd4-952c-6b5500885005">
+
